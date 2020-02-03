@@ -1,7 +1,7 @@
 {
     "name" : "Lunch for HHOMM's Themes",
     "version" : "0.8.2",
-    "download_url" : "http://hhomm.work/dev/@akitect/updates/files/lunch-for-hhomm-master.zip",
+    "download_url" : "https://akitect.github.io/updates/files/lunch-for-hhomm-master.zip",
     "sections" : {
         "description" : "디자인홈(HHOMM) 테마를 위한 워드프레스 관리자 패키지"
     }
